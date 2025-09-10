@@ -33,7 +33,7 @@ So this book is more than a set of academic tips. It’s both:
 - A **map for navigating the research ecosystem** (when no one teaches you how).
 - And a **record of what it means to evolve—from vague interest to focused impact.**
 
-If you’ve ever felt lost choosing a topic, confused by academic structures, or frustrated with the lack of guidance—this handbook is for you.
+If you’ve ever felt lost choosing a topic, confused by academic structures, or frustrated with the lack of guidance, this handbook is for you.
 
 ---
 
@@ -41,10 +41,10 @@ If you’ve ever felt lost choosing a topic, confused by academic structures, or
 
 This handbook is for:
 
-* 🎓 **Graduate students**—especially those in technical or interdisciplinary programs—who feel like they were thrown into the deep end without learning how to swim.
-* 🔍 **Early-stage researchers** trying to explore literature, validate their problem space, and understand what has already been done.
-* 🧠 **Self-taught builders** transitioning into the academic world of conferences, journals, and research ethics.
-* 💼 **Professionals writing a thesis** after years of software development, seeking clarity without getting buried in jargon.
+* **Graduate students**—especially those in technical or interdisciplinary programs who feel like they were thrown into the deep end without learning how to swim.
+* **Early-stage researchers** trying to explore literature, validate their problem space, and understand what has already been done.
+* **Self-taught builders** transitioning into the academic world of conferences, journals, and research ethics.
+* **Professionals writing a thesis** after years of software development, seeking clarity without getting buried in jargon.
 
 You don’t need a PhD mindset to use this guide.  
 But you *do* need a beginner’s curiosity and a builder’s determination.
