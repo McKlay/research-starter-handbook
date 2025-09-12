@@ -33,27 +33,27 @@ nav:
 
   - "":
       - "&nbsp; Preface": Preface.md
-      - "&nbsp;&nbsp; 📖 Part I: Foundations": PartI_overview.md
+      - "&nbsp;&nbsp; 📖 Part I: Choosing Your Research Direction": PartI_overview.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 1": chapter1.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 2": chapter2.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 3": chapter3.md
 
-      - "&nbsp;&nbsp; 📖 Part II: Preprocessing": PartII_overview.md
+      - "&nbsp;&nbsp; 📖 Part II: Mapping the Research Landscape": PartII_overview.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 4": chapter4.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 5": chapter5.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 6": chapter6.md
 
-      - "&nbsp;&nbsp; 📖 Part III: CNN Arch": PartIII_overview.md
+      - "&nbsp;&nbsp; 📖 Part III: Finding, Reading, and Tracking Research": PartIII_overview.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 7": chapter7.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 8": chapter8.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 9": chapter9.md
 
-      - "&nbsp;&nbsp; 📖 Part IV: Fine-Tuning": PartIV_overview.md
+      - "&nbsp;&nbsp; 📖 Part IV: Academic Integrity & Writing With Impact": PartIV_overview.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 10": chapter10.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 11": chapter11.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 12": chapter12.md
 
-      - "&nbsp;&nbsp; 📖 Part V: Inference": PartV_overview.md
+      - "&nbsp;&nbsp; 📖 Part V: Writing, Submitting, and Publishing": PartV_overview.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 13": chapter13.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 14": chapter14.md
       - "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chapter 15": chapter15.md
