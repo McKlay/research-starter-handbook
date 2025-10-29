@@ -9,7 +9,7 @@ hide:
 
 ---
 
-## **🌪️ From Overwhelm to Focus**
+## **From Overwhelm to Focus**
 
 Every new researcher faces a moment of disorientation.
 
