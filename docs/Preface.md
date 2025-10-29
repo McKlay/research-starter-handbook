@@ -5,7 +5,7 @@ hide:
 
 ### Why This Book Exists
 
-This handbook was born not from authority—but from necessity.
+This handbook was born not from authority, but from necessity.
 
 As a new researcher in a Master’s program, I expected guidance on how to *“do research.”* Instead, I found myself **lost in a maze of unfamiliar terms**—journals, conferences, venues, citations, impact factors—without a map, compass, or even a starting point. No one taught us how to find actual research papers. Or how to tell if something was peer-reviewed. Or how to explore what others have already built in our chosen topic.
 
@@ -62,7 +62,7 @@ Before I could build my thesis, I had to build *context*.
 Before I could design experiments, I had to understand the *landscape*.  
 Before I could claim novelty, I had to understand *what existed*.
 
-And yet—no one showed us how to do that.
+And yet, no one showed us how to do that.
 
 So I started asking the questions the classroom skipped:
 
@@ -78,7 +78,7 @@ Each time I found an answer, I wrote it down. What started as a survival strateg
 
 ### What You’ll Learn (and What You Won’t)
 
-✅ You will learn:
+You will learn:
 
 * How to choose a research topic that fits your skills, values, and constraints.
 * How to identify credible academic papers in your field.
@@ -89,7 +89,7 @@ Each time I found an answer, I wrote it down. What started as a survival strateg
 * What tools (Zotero, BibTeX, Obsidian, etc.) can drastically improve your workflow.
 * How the academic publishing and peer review process works—from CFP to revision.
 
-❌ You will *not* find:
+You will *not* find:
 
 * Generic theory about “what is research” with no practical use.
 * Overly abstract philosophical debates with no application.
