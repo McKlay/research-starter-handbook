@@ -14,6 +14,8 @@ hide:
 You’ve written your paper. You’ve revised based on feedback.  
 Now comes the final stretch—turning your draft into a professional, submission-ready manuscript.
 
+This stage is about more than just uploading a file. It’s about attention to detail, teamwork, and making sure your work is presented in the best possible light. The final steps can be stressful, but with good planning and organization, you’ll avoid last-minute panic and increase your chances of a smooth submission.
+
 But there are still decisions to make:
 
 - Who are the official authors?
@@ -23,6 +25,8 @@ But there are still decisions to make:
 
 This chapter guides you through the **final mile of your research paper journey**—with a focus on deadlines, ethics, formatting, and future steps.
 
+You’ll also learn how to communicate with co-authors, handle submission systems, and prepare for what happens after you hit “submit.”
+
 ---
 
 ## Conceptual Breakdown
@@ -30,6 +34,8 @@ This chapter guides you through the **final mile of your research paper journey*
 **🔹 Set Internal Deadlines (Not Just the Final One)**
 
 Don’t aim for *just* the conference or journal deadline. Plan backwards.
+
+Internal deadlines help you pace your work and ensure there’s time for feedback and revisions. Share your timeline with co-authors and advisors so everyone is on the same page.
 
 | Task                             | Recommended Deadline Before Submission |
 |----------------------------------|----------------------------------------|
@@ -40,11 +46,15 @@ Don’t aim for *just* the conference or journal deadline. Plan backwards.
 
 > ✅ Always leave buffer time for technical issues (PDF errors, login problems, last-minute edits).
 
+Unexpected issues are common—plan for them so you’re not caught off guard.
+
 ---
 
 **🔹 Author Order and Contribution Statements**
 
 Who gets listed as authors—and in what order?
+
+Discuss authorship early in the process to avoid misunderstandings. Different fields and labs have different norms, so clarify expectations with your advisor and collaborators.
 
 General principles:
 
@@ -63,11 +73,15 @@ Some venues now require a **contribution statement**, e.g., using the **CRediT t
 
 > ⚖️ Be transparent. Ask your advisor about authorship norms in your department or lab.
 
+Contribution statements are becoming standard in many venues. They help clarify who did what and ensure everyone gets appropriate credit.
+
 ---
 
 **🔹 Submission Portals: What to Expect**
 
 Common platforms:
+
+Each portal has its quirks. Familiarize yourself with the system before the deadline—some require account creation or specific file formats.
 
 - **EasyChair** – used by many CS conferences  
 - **PCS (Precision Conference System)** – used by SIGCHI, SIGCSE, etc.  
@@ -84,11 +98,15 @@ What you’ll usually need:
 
 > 📌 Always double-check: Does your PDF compile correctly? Is it blinded, if required?
 
+Check the submission guidelines for file size limits, naming conventions, and required forms. Incomplete or incorrectly formatted submissions can be desk-rejected.
+
 ---
 
 **🔹 What Happens After Submission**
 
 You’ll usually receive:
+
+Keep all confirmation emails and submission receipts. They’re your proof of submission and may be needed if there are technical issues.
 
 - A confirmation email  
 - A timeline for reviews and decisions  
@@ -103,6 +121,8 @@ Then comes:
 
 > 💡 Keep all files (source code, images, LaTeX, datasets) organized—camera-ready edits are usually under tight time constraints.
 
+Consider using version control (e.g., Git) or cloud storage to keep your files safe and accessible to all co-authors.
+
 ---
 
 ## Self-Check Questions
@@ -111,6 +131,8 @@ Then comes:
 2. Have you clarified author order and individual contributions?
 3. Do you know what submission system your target venue uses?
 4. Have you created a checklist of formatting, anonymization (if required), and ethics declarations?
+
+Review these questions with your team before the final submission. A little preparation goes a long way.
 
 ---
 
@@ -127,6 +149,8 @@ Then comes:
 - [ ] Submission portal account created  
 - [ ] Backup copy stored in cloud drive
 
+Add any venue-specific requirements to your checklist. Check off each item as you go to avoid missing critical steps.
+
 You’ll thank yourself during deadline week.
 
 ---
@@ -136,6 +160,8 @@ You’ll thank yourself during deadline week.
 Finishing the writing is only half the finish line.  
 A successful submission means you’ve:
 
+The submission process is a test of your organization and professionalism. Treat it as seriously as the writing itself.
+
 - Followed ethical practices  
 - Respected your co-authors and collaborators  
 - Met the technical requirements  
@@ -143,6 +169,8 @@ A successful submission means you’ve:
 
 > Every submission, whether accepted or rejected, brings you closer to your goals.  
 > Submit with confidence—and start preparing for what comes next.
+
+Celebrate your submission—you’ve reached a major milestone. Then, take a breath and get ready for the next stage of your research journey.
 
 ---
 
