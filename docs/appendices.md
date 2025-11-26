@@ -3,24 +3,24 @@ hide:
   - toc
 ---
 
-# 📁 Appendices & Templates
+# Appendices & Templates
 
-> *“Research is hard enough—don’t start from scratch when others have built the tools for you.”*
-
----
-
-## 🔖 Quick Navigation
-
-- [📄 Sample Annotated Research Paper](#sample-annotated-research-paper)
-- [📊 Literature Matrix Template](#literature-matrix-template)
-- [📝 Review Sheet & Note-Taking Template](#review-sheet--note-taking-template)
-- [🏆 Top Venues by Domain](#top-venues-by-domain)
-- [🧾 Citation Examples (IEEE / ACM / APA)](#citation-examples-ieee--acm--apa)
-- [🛠️ Tools for Collaboration](#tools-for-collaboration)
+> *“Research is hard enough, don’t start from scratch when others have built the tools for you.”*
 
 ---
 
-## 📄 Sample Annotated Research Paper
+## Quick Navigation
+
+- [Sample Annotated Research Paper](#sample-annotated-research-paper)
+- [Literature Matrix Template](#literature-matrix-template)
+- [Review Sheet & Note-Taking Template](#review-sheet--note-taking-template)
+- [Top Venues by Domain](#top-venues-by-domain)
+- [Citation Examples (IEEE / ACM / APA)](#citation-examples-ieee--acm--apa)
+- [Tools for Collaboration](#tools-for-collaboration)
+
+---
+
+## Sample Annotated Research Paper
 
 A visual breakdown of a real CS research paper with annotations showing:
 
@@ -33,7 +33,7 @@ A visual breakdown of a real CS research paper with annotations showing:
 
 ---
 
-## 📊 Literature Matrix Template
+## Literature Matrix Template
 
 Use this spreadsheet to track, compare, and organize the papers you read.
 
@@ -45,7 +45,7 @@ Use this spreadsheet to track, compare, and organize the papers you read.
 
 ---
 
-## 📝 Review Sheet & Note-Taking Template
+## Review Sheet & Note-Taking Template
 
 A reusable template for structured paper reading:
 
@@ -67,7 +67,7 @@ Use this to build your own literature review database over time.
 
 ---
 
-## 🏆 Top Venues by Domain
+## Top Venues by Domain
 
 A curated list of respected conferences and journals across major CS fields:
 
@@ -85,7 +85,7 @@ A curated list of respected conferences and journals across major CS fields:
 
 ---
 
-## 🧾 Citation Examples (IEEE / ACM / APA)
+## Citation Examples (IEEE / ACM / APA)
 
 ### IEEE Style:
 
@@ -116,11 +116,11 @@ Here are tools used throughout the research process:
 | **GitHub**       | Version control for papers, code, and docs |
 | **Google Drive** | File storage, review drafts, and backups   |
 
-> ✅ Consider integrating Zotero + Overleaf + GitHub for a seamless research workflow.
+> Consider integrating Zotero + Overleaf + GitHub for a seamless research workflow.
 
 ---
 
-## ✅ Want More?
+## Want More?
 
 Visit the companion GitHub repository for:
 
